@@ -1,4 +1,7 @@
-## Hi there 👋
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=e2c2ff&height=150&section=header)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=aa97b9&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+KyeongMin's+GitHub!👋)](https://git.io/typing-svg)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=e2c2ff&height=150&section=footer)
 
 <!--
 **rudalsMin/rudalsMin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
